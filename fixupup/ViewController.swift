@@ -15,11 +15,8 @@ class ViewController: UIViewController {
         //commit 1
         //commit 2
         //commit 3
-<<<<<<< HEAD
         //commit 4 수정할래 최종수정 녹여 이거 최종으로 바꿔 ㄹㅇ 최종
-=======
-        //commit 4 수정할래
->>>>>>> 7f7601d (commit 4)
+
     }
 
 
